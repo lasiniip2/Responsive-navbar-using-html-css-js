@@ -4,4 +4,6 @@ A responsive navigation bar built with **HTML5**, **CSS**, and **JavaScript**. T
 ## Technologies Used
 - **HTML5** for structure  
 - **CSS3** for styling and layout  
-- **JavaScript** for interactive behavior  
+- **JavaScript** for interactive behavior
+
+### Completed back in 2022
